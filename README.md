@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qkiwik715l4o8m64?svg=true)](https://ci.appveyor.com/project/Nut0chka/bdd-homework)
